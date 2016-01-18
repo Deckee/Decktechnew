@@ -1,4 +1,5 @@
 package com.deckee.DeckTech;
+import com.Deckee.DeckTech.ModBlocks.DeckTechBlocks;
 import com.Deckee.DeckTech.proxy.CommonProxy;
 import com.deckee.DeckTech.utility.LogHelper;
 import cpw.mods.fml.common.Mod;
@@ -28,7 +29,7 @@ public class DeckTech {
 
     @EventHandler
     public void preInit(FMLPreInitializationEvent e) {
-
+        DeckTechBlocks.init();
 
     LogHelper.info("I prefer the hard truths of Zombies to the easy lies of Elves");
 
