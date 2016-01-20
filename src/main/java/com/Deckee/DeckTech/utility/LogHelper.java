@@ -1,8 +1,11 @@
-package com.deckee.DeckTech.utility;
+package com.Deckee.DeckTech.utility;
 
-import com.deckee.DeckTech.DeckTech;
+import com.Deckee.DeckTech.DeckTech;
 import cpw.mods.fml.common.FMLLog;
 import org.apache.logging.log4j.Level;
+
+
+
 /**
  * Created by adam on 7/30/2015.
  */

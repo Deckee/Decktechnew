@@ -1,0 +1,25 @@
+tile.DeckTechCoal.name=High Carbon Coal
+tile.DeckTechChestMaker.name= Chest Maker
+tile.pathBlock.name=PathBlock (Slippery)
+tile.pathBlockfake.name=PathBlock
+tile.steelBlock.name=SteelBlock (Slippery)
+tile.steelBlockfake.name=SteelBlock
+tile.EndstoneBricks.name=EndStone Bricks
+tile.DeckTechSlab.name=Path Slab Bottom
+tile.DeckTechSlabTop.name=Path Slab Top
+item.steelIngot.name= SteelIngot
+item.decktechItem.name=SteelPlate
+item.SteelPickAxe.name=Steel Pickaxe
+item.SteelAxe.name=Steel Axe
+item.SteelHoe.name=Steel Hoe
+item.SteelSpade.name=Steel Shovel
+item.SteelSword.name=Steel Sword
+item.DeckTechArmor_Helm.name=Steel Helmet
+item.DeckTechArmor_Chest.name=Steel ChestPlate
+item.deckTechArmor_Leggings.name=Steel Pants
+item.DeckTechArmor_Boots.name= Steel Boots
+item.CCoal.name= High Carbon Coal
+item.tabIcon.name= TabItem
+
+itemGroup.Decktech=DeckTech
+itemGroup.decktech=DeckTech
